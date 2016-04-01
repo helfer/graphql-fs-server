@@ -1,5 +1,7 @@
 # A simple GraphQL server that uses the file system to store nodes
 
+[Work in progress...] (obviously)
+
 ## How it works:
 
 ```
@@ -53,7 +55,7 @@ would be stored as follows:
   name: "Group 1",
   members: [1,5,7,9]
 }
-
+```
 
 Of course this server is incredibly basic and doesn't actually let you do all that much.
 Building this on top of a database would allow you to do much more, but I think it's
