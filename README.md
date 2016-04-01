@@ -1,6 +1,6 @@
 # A simple GraphQL server that uses the file system to store nodes
 
-[Work in progress...] (obviously)
+[Work in progress... obviously]
 
 ## How it works:
 
